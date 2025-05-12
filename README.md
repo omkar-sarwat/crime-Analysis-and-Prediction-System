@@ -18,7 +18,7 @@ This project is an interactive dashboard for analyzing and forecasting crime pat
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/omkar-sarwat/crime-Analysis-and-Prediction-System.git
    cd Crime-Analysis-and-Prediction-System
    ```
 
